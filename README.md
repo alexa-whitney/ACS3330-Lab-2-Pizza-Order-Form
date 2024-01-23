@@ -1,4 +1,4 @@
-# Lab 1: Props & State - Alexa Whitney ACS3330
+# Lab 2: Pizza Order Form - Alexa Whitney ACS3330
 
 ## Screenshot
 ![App]()
